@@ -8,4 +8,5 @@
   top: 0;
   background-repeat: no-repeat;
   background-size: contain;
+  animation: rotation 20s backwards linear infinite;
 }
